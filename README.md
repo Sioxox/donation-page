@@ -1,2 +1,2 @@
-# donation-page
-En cours d'édition...
+# Donation page
+https://trello.com/b/qVvDqz1A
